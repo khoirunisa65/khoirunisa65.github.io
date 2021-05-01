@@ -1,0 +1,33 @@
+h1 {
+	font-family: 'Shrikhand', cursive;
+	font-size: 40px;
+	text-align:center;
+	color: DimGray;
+	border: dotted;
+	margin-right: 1%;
+	margin-left:1%
+}
+body{
+	margin: 0;
+	padding: 0;
+	background: url(image.jpg) no-repeat;
+	background-size: cover
+}
+h3 {
+	width: 1000px;
+	background: rgba(0,0,0,0.4);
+	text-align:center;
+	margin :auto;
+	margin-bottom: 2%;
+	color : white
+}
+p {
+	background: rgba(0,0,0,0.4);
+	color: white;
+	margin-right: 1%;
+	margin-left:1%
+}
+table{
+	margin-right: 1%;
+	margin-left:1% 
+}
